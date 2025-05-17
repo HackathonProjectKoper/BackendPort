@@ -104,12 +104,12 @@
             "format": "int32"
           },
           "eta_hour": {
-            "type": "integer",
-            "format": "int32"
+            "type": "string",
+            "format": "date-span"
           },
           "planned_departure_hour": {
-            "type": "integer",
-            "format": "int32"
+            "type": "string",
+            "format": "date-span"
           },
           "berth_id": {
             "type": "string",
@@ -122,6 +122,10 @@
           "weather_score": {
             "type": "integer",
             "format": "int32"
+          },
+          "container_subtype": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

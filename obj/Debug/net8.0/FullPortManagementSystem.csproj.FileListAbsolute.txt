@@ -163,10 +163,11 @@ C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\ob
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FullPortManagementSystem.props
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FullPortManagementSystem.props
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\FullPort.5E5D36A4.Up2Date
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\FullPortManagementSystem.dll
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\refint\FullPortManagementSystem.dll
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\FullPortManagementSystem.pdb
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\FullPortManagementSystem.genruntimeconfig.cache
 C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\ref\FullPortManagementSystem.dll
+C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\FullPortManagementSystem.sourcelink.json
+C:\Users\ilija\source\repos\FullPortManagementSystem\FullPortManagementSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
